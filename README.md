@@ -131,6 +131,6 @@ The paper of this study is currently under review.
 
 ## 🙌 Acknowledgements
 
-Studied by Komeil Moghaddasi. Inspired by advances in federated RL and smart-building analytics.
+Studied by Komeil Moghaddasi (k.moghaddasi@ieee.org). Inspired by advances in federated RL and smart-building analytics.
 
 <p align="center"><i>Feel free to star ⭐ the repo if it helps you!</i></p>
