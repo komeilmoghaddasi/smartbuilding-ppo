@@ -1,16 +1,16 @@
-# SmartBuilding Federated PPO 🚀
+# SmartBuilding Federated PPO 
 
 A modular, extensible research codebase for **Federated Multi-Agent Reinforcement Learning** in smart building environments, using Proximal Policy Optimization (PPO) and federated learning.
 
 
 ## Table of Contents
 
-1. [✨ Features](#-features)
+1. [ Features](#-features)
 2. [📂 Repository Layout](#-repository-layout)
-3. [⚡ Quick Start](#-quick-start)
+3. [ Quick Start](#-quick-start)
 4. [🔧 Configuration](#-configuration)
-5. [📊 Outputs & Logging](#-outputs--logging)
-6. [🧩 Extending the Codebase](#-extending-the-codebase)
+5. [ Outputs & Logging](#-outputs--logging)
+6. [ Extending the Codebase](#-extending-the-codebase)
 7. [🤝 Contributing](#-contributing)
 8. [📜 Citation](#-citation)
 9. [🙌 Acknowledgements](#-acknowledgements)
